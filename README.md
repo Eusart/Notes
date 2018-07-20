@@ -1,4 +1,4 @@
-# Notes
+# Notes - fork for sigot 1.13 -deveplopment plugin
 A plugin to create paper notes that have monetary value, commands, or experience.
 
 Compiling
